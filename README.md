@@ -9,7 +9,7 @@
 ## 🎬 Video Tutorial
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=videoID">
+  <a href="https://www.youtube.com/watch?v=_PysGRksbGQ">
     <img src="https://img.youtube.com/vi/videoID/maxresdefault.jpg" alt="GhostLogger Tutorial" width="600">
     <br>
     <img src="https://img.shields.io/badge/▶️_Watch_Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Tutorial">
