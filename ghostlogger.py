@@ -22,7 +22,7 @@ def telegram_bot():
   
     #TOKEN = "Your_Telegram_Token"
     
-  with open("bot_token.txt", "r") as f:
+    with open("bot_token.txt", "r") as f:
         TOKEN = f.read().strip()
 
     async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
