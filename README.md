@@ -17,6 +17,16 @@
   <i>👆 Building GhostLogger - The Original Tutorial</i>
 </div>
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=4fvQoriTH7c&t=319s">
+    <br>
+    <img src="https://img.shields.io/badge/▶️_Watch_Episode_2-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Episode 2">
+  </a>
+  <br>
+  <i>👆 GhostLogger 2.0 - Upgrade, Test & Compile</i>
+</div>
+
+
 ---
 
 🎓 This project is part of my first YouTube tutorial. I tried to make something as simple as possible to help anyone diving into the malware development world. The level will increase day by day and I'm pretty sure that it'll be really valuable for everyone, even me, because it forces me to think about how I can create this or that for a tutorial. So yeah, feel free to watch this tutorial 🚀
