@@ -11,10 +11,10 @@
 <div align="center">
   <a href="https://www.youtube.com/watch?v=_PysGRksbGQ">
     <br>
-    <img src="https://img.shields.io/badge/▶️_Watch_Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Tutorial">
+    <img src="https://img.shields.io/badge/▶️_Watch_Episode_1-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Episode 1">
   </a>
   <br>
-  <i>👆 Click to watch the full video on YouTube</i>
+  <i>👆 Building GhostLogger - The Original Tutorial</i>
 </div>
 
 ---
